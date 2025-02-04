@@ -28,7 +28,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "b": {
+        "\u2020": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -42,6 +42,11 @@
             "row": 0,
             "col": 8,
             "finger": "RR"
+        },
+        "z": {
+            "row": 0,
+            "col": 9,
+            "finger": "RP"
         },
         "e": {
             "row": 1,
@@ -113,7 +118,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "z": {
+        "b": {
             "row": 2,
             "col": 5,
             "finger": "RI"
@@ -132,6 +137,11 @@
             "row": 2,
             "col": 9,
             "finger": "RP"
+        },
+        "*": {
+            "row": 3,
+            "col": 0,
+            "finger": "LT"
         }
     }
 }
