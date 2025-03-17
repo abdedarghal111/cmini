@@ -33,12 +33,12 @@
             "col": 5,
             "finger": "RI"
         },
-        "m": {
+        "h": {
             "row": 0,
             "col": 6,
             "finger": "RM"
         },
-        "p": {
+        "d": {
             "row": 0,
             "col": 7,
             "finger": "RR"
@@ -133,12 +133,12 @@
             "col": 5,
             "finger": "RI"
         },
-        "h": {
+        "m": {
             "row": 2,
             "col": 6,
             "finger": "RM"
         },
-        "d": {
+        "p": {
             "row": 2,
             "col": 7,
             "finger": "RR"
