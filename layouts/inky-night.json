@@ -1,7 +1,7 @@
 {
     "name": "inky-night",
     "user": 766194884095901746,
-    "board": "angle",
+    "board": "ortho",
     "keys": {
         "b": {
             "row": 0,
@@ -28,7 +28,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "'": {
+        "j": {
             "row": 0,
             "col": 5,
             "finger": "RI"
@@ -111,17 +111,17 @@
         "z": {
             "row": 2,
             "col": 0,
-            "finger": "LR"
+            "finger": "LP"
         },
         "x": {
             "row": 2,
             "col": 1,
-            "finger": "LM"
+            "finger": "LR"
         },
-        "j": {
+        "@": {
             "row": 2,
             "col": 2,
-            "finger": "LI"
+            "finger": "LM"
         },
         "v": {
             "row": 2,
@@ -143,7 +143,7 @@
             "col": 6,
             "finger": "RI"
         },
-        "-": {
+        "'": {
             "row": 2,
             "col": 7,
             "finger": "RM"
