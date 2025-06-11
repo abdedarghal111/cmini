@@ -113,15 +113,15 @@
             "col": 10,
             "finger": "RP"
         },
-        "/": {
+        ",": {
             "row": 2,
             "col": 0,
             "finger": "LR"
         },
-        ",": {
+        "/": {
             "row": 2,
             "col": 1,
-            "finger": "LM"
+            "finger": "LR"
         },
         "v": {
             "row": 2,
@@ -148,7 +148,7 @@
             "col": 6,
             "finger": "RI"
         },
-        "\\": {
+        ";": {
             "row": 2,
             "col": 7,
             "finger": "RM"
