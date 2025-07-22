@@ -2,6 +2,7 @@
 name = "cmini"
 version = "0.1.0"
 description = ""
+package-mode = false
 authors = ["Apsu <apsu@propter.net>"]
 
 [tool.poetry.dependencies]

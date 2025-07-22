@@ -9,7 +9,7 @@ from util.consts import TRIGGERS
 from util import authors
 from admins import ADMINS
 
-CMINI_CHANNEL = 1063291226243207268
+CMINI_CHANNEL = 1396934697015054336
 
 commands = [x.replace('/', '.')[5:-3] for x in glob.glob('cmds/*.py')]
 
